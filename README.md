@@ -84,12 +84,6 @@ python src/predict.py --image path/to/leaf.jpg
 python app.py
 ```
 
-## Results
-
-*(Fill this in after training on your dataset — e.g. "Achieved 94% test
-accuracy across 15 classes" plus a screenshot of the confusion matrix.)*
-
-
 ## License
 
 MIT — see [LICENSE](LICENSE)
