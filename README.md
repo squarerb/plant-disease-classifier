@@ -89,13 +89,6 @@ python app.py
 *(Fill this in after training on your dataset — e.g. "Achieved 94% test
 accuracy across 15 classes" plus a screenshot of the confusion matrix.)*
 
-## Future improvements
-
-- Add Grad-CAM visualizations to show which part of the leaf drove each
-  prediction
-- Try a larger backbone (EfficientNet, ConvNeXt) for higher accuracy
-- Expand to more crop species
-- Deploy the Gradio app publicly (Hugging Face Spaces)
 
 ## License
 
